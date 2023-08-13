@@ -29,8 +29,10 @@ A DenseNet169 CNN architecture pretrained on ImageNet is used as the base model.
 
 #### The final model achieves:
 
+```
 Accuracy: 92%
 ROC AUC: 0.99
+```
 on the validation set.
 
 ## Usage
