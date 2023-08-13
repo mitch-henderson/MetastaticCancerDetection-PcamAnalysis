@@ -56,3 +56,6 @@ https://www.kaggle.com/code/awaisrauf/histopathologic-cancer-detection-with-fast
 
 ##### License
 The Pcam dataset is provided under the CC0 License, following the license of Camelyon16.
+
+##### Questions/Comments: 
+Contact me on GitHub!
