@@ -45,7 +45,7 @@ The code requires Python 3 and the following libraries:
 
 matplotlib
 opencv-python
-pandas
+pandas 
 scikit-learn
 fastai
 torchvision
