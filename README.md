@@ -25,7 +25,7 @@ The main tools and techniques used in this project:
  
 ## Model
 A DenseNet169 CNN architecture pretrained on ImageNet is used as the base model. The model is trained for 1 epoch on the training set with a learning rate of 0.01302280556410551 and weight decay of 0.01. Data augmentation techniques like rotations, flipping, cropping etc. are used to expand the training set.
-
+ 
 #### The final model achieves:
 
 ```
