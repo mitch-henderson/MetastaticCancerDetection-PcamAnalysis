@@ -10,7 +10,7 @@ This project aims to detect metastatic cancer in small image patches taken from 
 ## Data          
 The dataset contains 220,025 96x96 pixel RGB histopathology patches. 130,000 images are labeled as negative (no cancer) and 90,000 as positive (contains cancer). The data is split into training and test sets. c
 ## Algorithm Toolset    
-The main tools and techniques used in this project:       
+The main tools and techniques used in this project:        
        
 - [OpenCV](https://www.analyticsvidhya.com/blog/2021/09/a-beginners-guide-to-image-processing-with-opencv-and-python/) for image loading and preprocessing
 - [Sklearn](https://scikit-learn.org/stable/modules/cross_validation.html) for train/validation split and model evaluation
