@@ -22,7 +22,7 @@ The main tools and techniques used in this project:
 - [Binary cross-entropy loss function](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/)
 - [Validation set](https://medium.com/@sanidhyaagrawal08/what-is-hyperparameter-tuning-cross-validation-and-holdout-validation-and-model-selection-a818d225998d) for hyperparameter tuning and model selection
   
-  
+   
 ## Model
 A DenseNet169 CNN architecture pretrained on ImageNet is used as the base model. The model is trained for 1 epoch on the training set with a learning rate of 0.01302280556410551 and weight decay of 0.01. Data augmentation techniques like rotations, flipping, cropping etc. are used to expand the training set.
  
