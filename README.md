@@ -5,7 +5,7 @@
 In this competition, I create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. You may view and download the official Pcam dataset from GitHub https://github.com/basveeling/pcam. The data is provided under the CC0 License, following the license of Camelyon16.
   
 ## Histopathologic Cancer Detection
-This project aims to detect metastatic cancer in small image patches taken from larger digital pathology scans. The dataset comes from the Pcam Kaggle competition.
+This project aims to detect metastatic cancer in small image patches taken from larger digital pathology scans. The dataset comes from the Pcam Kaggle competition. 
           
 ## Data             
 The dataset contains 220,025 96x96 pixel RGB histopathology patches. 130,000 images are labeled as negative (no cancer) and 90,000 as positive (contains cancer). The data is split into training and test sets. 
