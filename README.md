@@ -13,7 +13,7 @@ The dataset contains 220,025 96x96 pixel RGB histopathology patches. 130,000 ima
 The main tools and techniques used in this project:            
           
 - [OpenCV](https://www.analyticsvidhya.com/blog/2021/09/a-beginners-guide-to-image-processing-with-opencv-and-python/) for image loading and preprocessing 
-- [Sklearn](https://scikit-learn.org/stable/modules/cross_validation.html) for train/validation split and model evaluation
+- [Sklearn](https://scikit-learn.org/stable/modules/cross_validation.html) for train/validation split and model evaluation 
 - [FastAI](https://github.com/fastai/fastai) and [PyTorch](https://pytorch.org/) for the Deep Learning model and training
 - [DenseNet169](https://www.tensorflow.org/api_docs/python/tf/keras/applications/densenet/DenseNet169) architecture as the base convolutional neural network
 - [Data augmentation](https://towardsdatascience.com/a-beginners-guide-to-image-augmentations-in-machine-learning-22c48a2fbd99) (rotations, cropping etc.) to expand the training set
